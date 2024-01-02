@@ -1,0 +1,9 @@
+Use the conda install command to install the necessary packages:
+
+
+
+Web scraping: conda install beautifulsoup4  lxml requests selenium 
+Database: conda install mysql-connector-python (for MySQL)
+Data analysis: conda install pandas numpy
+Machine learning (optional): conda install tensorflow or conda install pytorch
+Web framework (optional): conda install django or conda install flask
