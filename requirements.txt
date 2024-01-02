@@ -3,7 +3,12 @@ Use the conda install command to install the necessary packages:
 
 
 Web scraping: conda install beautifulsoup4  lxml requests selenium 
-Database: conda install mysql-connector-python (for MySQL)
+Database: conda install mysql-connector-python(for MySQL )brooo pin-1 not installable because 
+python version but like i treid con 3.12 3.11 3.10
+
+everthing else works
+
+
 Data analysis: conda install pandas numpy
 Machine learning (optional): conda install tensorflow or conda install pytorch
 Web framework (optional): conda install django or conda install flask
