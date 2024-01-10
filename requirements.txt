@@ -1,5 +1,6 @@
 Use the conda install command to install the necessary packages:
 
+Later i will add the yml file for conda
 
 
 Web scraping: conda install beautifulsoup4  lxml requests selenium 
