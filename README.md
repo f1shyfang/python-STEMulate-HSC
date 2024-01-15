@@ -1,5 +1,7 @@
 Here is the full documentation on the planning stage of the
 
+http://127.0.0.1:8000/playground/hello/
+
 https://docs.google.com/document/d/1TuTo9mj_2nzmb_414hHf8zemxTWT0_PJKQY0z3yktcQ/edit?usp=sharing
 
 
