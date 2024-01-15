@@ -6,5 +6,5 @@ from . import views
 #url conf
 urlpatterns = [
 
-    path('playground/hello', views.say_hello)
+    path('hello/', views.say_hello)
 ]

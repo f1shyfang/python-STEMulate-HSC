@@ -37,7 +37,7 @@ INSTALLED_APPS = [
     #'django.contrib.sessions',#can delete
     'django.contrib.messages', #one time messages to the user
     'django.contrib.staticfiles',
-    'playground',
+    'playground'
 ]
 
 MIDDLEWARE = [
