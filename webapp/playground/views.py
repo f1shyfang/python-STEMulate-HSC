@@ -9,8 +9,13 @@ from django.http import HttpResponse
 
 def say_hello(request):
     #return HttpResponse('Hello World')
+    x = calculate()
+    return render(request, 'hello.html',{'name': x})
+
+
+def calculate():
+
     x = 1
     y = 2
-    return render(request, 'hello.html',{'name': '?'})
-
+    return x
 #pull data froma  db can be anything
