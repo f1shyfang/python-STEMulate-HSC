@@ -7,4 +7,6 @@ from . import views
 urlpatterns = [
 
     path('hello/', views.say_hello)
+    path('aboutus/', views.about_us)
+    path('doccs/' views.)
 ]
